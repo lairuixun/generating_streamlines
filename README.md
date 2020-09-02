@@ -15,4 +15,4 @@ After generation of all the streamlines, the nodes should be transform into shap
 The shapefile 'streamlines.shp' is an example data contains all the streamlines.
 
 step 4:
-The measured cross-sectional data is imposed on these streamlines to interpolate bathymetry. The interpolation method was described in Fig. 4.
+The measured cross-sectional data is imposed on these streamlines to interpolate bathymetry. The final bathymetry of the example river can be interpolated using general GIS software such as ArcGIS or QGIS.
